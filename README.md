@@ -1,6 +1,5 @@
-# cyfuture-ai-chatbot
-A lightweight AI-powered chatbot built for Cyfuture AI. Includes conversation flows, API integrations, and deployment setup.
 # Cyfuture AI Chatbot
+A lightweight AI-powered chatbot built for Cyfuture AI. Includes conversation flows, API integrations, and deployment setup.
 
 This repository contains the source code for the Cyfuture AI Chatbot.  
 The chatbot is designed to handle customer queries, automate responses, and integrate with Cyfuture AI services.
